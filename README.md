@@ -20,24 +20,34 @@ Passionate About Web Technologies | India</h3>
 - 📄 Read My Resume [https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk](https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk)
 
 - ⚡ Fun fact : **Ctrl + Z has saved me more times than I can count - in life and in code.**
-
 <h3 align="left">🌐 Connect with Me</h3>
 
-<div align="left" style="display: flex; gap: 30px; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/prince-jha-dev" target="_blank">
+        <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/prince-jha-dev" target="_blank" style="text-decoration:none; font-size:16px;">
+        LinkedIn
+      </a>
+    </td>
+    <td style="width: 30px;"></td> <!-- spacer -->
 
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/prince-jha-dev" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" />
-    <span style="margin-left: 8px; font-size: 16px; color: #0077b5;">LinkedIn</span>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:pjha91275@gmail.com" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://img.icons8.com/color/32/gmail--v1.png" alt="Email" />
-    <span style="margin-left: 8px; font-size: 16px; color: #D14836;">Email Me</span>
-  </a>
-
-</div>
+    <td>
+      <a href="mailto:pjha91275@gmail.com">
+        <img src="https://img.icons8.com/color/32/gmail--v1.png" alt="Email" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:pjha91275@gmail.com" style="text-decoration:none; font-size:16px;">
+        Email Me
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
