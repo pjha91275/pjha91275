@@ -24,14 +24,15 @@ Passionate About Web Technologies | India</h3>
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/prince-jha-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" height="30" style="vertical-align:middle;"/>
+    <span style="font-size: 16px; vertical-align: middle; margin-left: 5px;">LinkedIn</span>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pjha91275@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" style="vertical-align:middle;"/>
+    <span style="font-size: 16px; vertical-align: middle; margin-left: 5px;">Email Me</span>
   </a>
 </p>
-
 
 ## 💻 Tech Stack
 
