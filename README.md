@@ -28,9 +28,10 @@ Passionate About Web Technologies | India</h3>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:pjha91275@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
+
 
 ## 💻 Tech Stack
 
