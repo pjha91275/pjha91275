@@ -22,17 +22,18 @@ Passionate About Web Technologies | India</h3>
 - ⚡ Fun fact : **Ctrl + Z has saved me more times than I can count - in life and in code.**
 
 <h3 align="left">🌐 Connect with Me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/prince-jha-dev" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" height="30" style="vertical-align:middle;"/>
-    <span style="font-size: 16px; vertical-align: middle; margin-left: 5px;">LinkedIn</span>
+<p align="left" style="display: flex; gap: 20px;">
+  <a href="https://linkedin.com/in/prince-jha-dev" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" height="30"/>
+    <span style="margin-left: 8px; font-size: 16px; color: #0077b5;">LinkedIn</span>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pjha91275@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" style="vertical-align:middle;"/>
-    <span style="font-size: 16px; vertical-align: middle; margin-left: 5px;">Email Me</span>
+
+  <a href="mailto:pjha91275@gmail.com" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30"/>
+    <span style="margin-left: 8px; font-size: 16px; color: #D14836;">Email Me</span>
   </a>
 </p>
+
 
 ## 💻 Tech Stack
 
