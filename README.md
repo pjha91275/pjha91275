@@ -1,22 +1,22 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<h1 align="center">Hi 👋, I'm Prince Jha</h1>
-<h3 align="center">Aspiring Full Stack Developer | 2nd year Computer Enginnering student |
+<h1 align="center">💫 Hi 👋, I'm Prince Jha</h1>
+<h3 align="center">2nd year Computer Enginnering student | Aspiring Full Stack Developer |
 Passionate About Web Technologies | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjha91275&label=Profile%20views&color=0e75b6&style=flat" alt="pjha91275" /> </p>
 
-- 🔭 I’m currently working on [Spotify Clone](https://pjha91275.github.io/Spotify-Clone/)
+- 🔭 I’m currently working on [Portfolio Website](https://pjha91275.github.io/portfolio/)
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on [Amazon Clone](https://pjha91275.github.io/Amazon-Clone/)
+- 👯 I’m looking to collaborate on [Spotify Clone](https://pjha91275.github.io/Spotify-Clone/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++ and JAVA**
 
 - 📫 How to reach me **pjha91275@gmail.com**
 
-- 📄 Read My Resume [https://drive.google.com/file/d/1AJaiYUUgm9KDGRKsI4rZFB2HGqMKlGiT/view?usp=drivesdk](https://drive.google.com/file/d/1AJaiYUUgm9KDGRKsI4rZFB2HGqMKlGiT/view?usp=drivesdk)
+- 📄 Read My Resume [https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk](https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk)
 
 - ⚡ Fun fact : **Ctrl + Z has saved me more times than I can count - in life and in code.**
 
@@ -24,12 +24,10 @@ Passionate About Web Technologies | India</h3>
 <p align="left">
   <a href="https://linkedin.com/in/prince-jha-dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince jha" height="30" width="40" />
-  </a>
-  <a href="mailto:pjha91275@gmail.com">
+  </a>          <a href="mailto:pjha91275@gmail.com">
   <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="30" width="40" />
 </a>
 </p>
-
 
 
 ## 💻 Tech Stack
