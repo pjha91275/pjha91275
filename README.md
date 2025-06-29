@@ -25,9 +25,9 @@ Passionate About Web Technologies | India</h3>
   <a href="https://linkedin.com/in/prince-jha-dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince jha" height="30" width="40" />
   </a>
-  <a href="mailto:pjha91275@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="30" width="40" />
-  </a>
+  <a href="mailto:pjha91275@gmail.com">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="30" width="40" />
+</a>
 </p>
 
 
@@ -40,8 +40,7 @@ Passionate About Web Technologies | India</h3>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-<br>
----
+
 ## 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
