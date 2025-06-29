@@ -21,17 +21,16 @@ Passionate About Web Technologies | India</h3>
 
 - ⚡ Fun fact : **Ctrl + Z has saved me more times than I can count - in life and in code.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/prince-jha-dev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pjha91275@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:pjha91275@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
-
 
 ## 💻 Tech Stack
 
