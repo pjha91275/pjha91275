@@ -14,8 +14,8 @@ Passionate About Web Technologies | India</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++ and JAVA**
 
--📩 **Email Me:** [pjha91275@gmail.com](mailto:sjha04180@gmail.com)  
- 🤝 *Open to collaboration, projects, or any tech talk — let’s connect!* 😊
+- 📩 **Email Me:** [pjha91275@gmail.com](mailto:sjha04180@gmail.com)  
+  🤝 *Open to collaboration, projects, or any tech talk — let’s connect!* 😊
 
 - 📄 Read My Resume [https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk](https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk)
 
