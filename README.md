@@ -23,13 +23,14 @@ Passionate About Web Technologies | India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/prince-jha-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince jha" height="30" width="40" />
-  </a>          <a href="mailto:pjha91275@gmail.com">
-  <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/prince-jha-dev" target="_blank" style="margin-right: 100px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="mailto:pjha91275@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" width="40" />
+  </a>
 </p>
-
 
 ## 💻 Tech Stack
 
