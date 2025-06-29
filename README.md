@@ -1,7 +1,8 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <h1 align="center">Hi 👋, I'm Prince Jha</h1>
-<h3 align="center">Aspiring Full Stack Developer | Passionate About Web Technologies | India</h3>
+<h3 align="center">Aspiring Full Stack Developer | 2nd year Computer Enginnering student |
+Passionate About Web Technologies | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjha91275&label=Profile%20views&color=0e75b6&style=flat" alt="pjha91275" /> </p>
 
@@ -23,6 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prince-jha-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince jha" height="30" width="40" /></a>
 </p>
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjha91275@gmail.com)
 
 ## 💻 Tech Stack
 
