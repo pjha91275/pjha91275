@@ -20,35 +20,12 @@ Passionate About Web Technologies | India</h3>
 - 📄 Read My Resume [https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk](https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk)
 
 - ⚡ Fun fact : **Ctrl + Z has saved me more times than I can count - in life and in code.**
-<h3 align="left">🌐 Connect with Me</h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/prince-jha-dev" target="_blank">
-        <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" />
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/prince-jha-dev" target="_blank" style="text-decoration:none; font-size:16px;">
-        LinkedIn
-      </a>
-    </td>
-    <td style="width: 30px;"></td> <!-- spacer -->
+### 🌐 Connect with Me
 
-    <td>
-      <a href="mailto:pjha91275@gmail.com">
-        <img src="https://img.icons8.com/color/32/gmail--v1.png" alt="Email" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:pjha91275@gmail.com" style="text-decoration:none; font-size:16px;">
-        Email Me
-      </a>
-    </td>
-  </tr>
-</table>
-
+| [![LinkedIn](https://img.icons8.com/color/32/linkedin.png)](https://linkedin.com/in/prince-jha-dev) | [![Email](https://img.icons8.com/color/32/gmail--v1.png)](mailto:pjha91275@gmail.com) |
+|:--:|:--:|
+| [LinkedIn](https://linkedin.com/in/prince-jha-dev) | [Email Me](mailto:pjha91275@gmail.com) |
 
 
 ## 💻 Tech Stack
