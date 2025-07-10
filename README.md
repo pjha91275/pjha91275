@@ -17,7 +17,7 @@ Passionate About Web Technologies | India</h3>
 - 📩 **Email Me:** [pjha91275@gmail.com](mailto:sjha04180@gmail.com)  
   🤝 *Open to collaboration, projects, or any tech talk — let’s connect!* 😊
 
-- 📄 Read My Resume [https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk](https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drivesdk)
+- 📄 Read My Resume [https://www.dropbox.com/scl/fi/ke1ramrn8xxkoa5h3arkq/Prince_Jha_Resume.pdf?rlkey=pl1816cesrc79qidn70jicrso&st=7bo0kwe3&dl=0](https://www.dropbox.com/scl/fi/ke1ramrn8xxkoa5h3arkq/Prince_Jha_Resume.pdf?rlkey=pl1816cesrc79qidn70jicrso&st=7bo0kwe3&dl=0)
 
 - ⚡ Fun fact : **Ctrl + Z has saved me more times than I can count - in life and in code.**
 
