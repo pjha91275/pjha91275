@@ -17,7 +17,7 @@ Passionate About Web Technologies | India</h3>
 - 📩 **Email Me:** [pjha91275@gmail.com](mailto:sjha04180@gmail.com)  
   🤝 *Open to collaboration, projects, or any tech talk — let’s connect!* 😊
 
-- 📄 Read My Resume [https://www.notion.so/Prince-Jha-Resume-22054b0ac71e80098e00c3c7e0471a69?source=copy_link#22054b0ac71e80edbe1be55003545a31](https://www.notion.so/Prince-Jha-Resume-22054b0ac71e80098e00c3c7e0471a69?source=copy_link#22054b0ac71e80edbe1be55003545a31)
+- 📄 Read My Resume [https://1drv.ms/b/c/bd245a92d4f18c2c/ETR1egQOAIBFs5tHvtWjtSoBDETk5RKLdghE_Yjo0hpnEw](https://1drv.ms/b/c/bd245a92d4f18c2c/ETR1egQOAIBFs5tHvtWjtSoBDETk5RKLdghE_Yjo0hpnEw)
 
 - ⚡ Fun fact : **Ctrl + Z has saved me more times than I can count - in life and in code.**
 
