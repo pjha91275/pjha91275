@@ -17,7 +17,7 @@ Passionate About Web Technologies | India</h3>
 - 📩 **Email Me:** [pjha91275@gmail.com](mailto:sjha04180@gmail.com)  
   🤝 *Open to collaboration, projects, or any tech talk — let’s connect!* 😊
 
-- 📄 Read My Resume [https://1drv.ms/b/c/bd245a92d4f18c2c/ETR1egQOAIBFs5tHvtWjtSoBB6IucdQF6w2v6WuLndBRiQ](https://1drv.ms/b/c/bd245a92d4f18c2c/ETR1egQOAIBFs5tHvtWjtSoBB6IucdQF6w2v6WuLndBRiQ)
+- 📄 Read My Resume [https://1drv.ms/b/c/bd245a92d4f18c2c/EeP8hQv-CIlCvcaunvkUQ3UBfIX67ka0Ri9iFwG8LEgmCA](https://1drv.ms/b/c/bd245a92d4f18c2c/EeP8hQv-CIlCvcaunvkUQ3UBfIX67ka0Ri9iFwG8LEgmCA)
 
 - ⚡ Fun fact : **Ctrl + Z has saved me more times than I can count - in life and in code.**
 
