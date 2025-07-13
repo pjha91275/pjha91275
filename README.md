@@ -6,7 +6,7 @@ Passionate About Web Technologies | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjha91275&label=Profile%20views&color=0e75b6&style=flat" alt="pjha91275" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://pjha91275.github.io/portfolio/)
+- 🔭 I’m currently working on [Portfolio Website](https://pjha91275.github.io/Portfolio/)
 
 - 🌱 I’m currently learning **JavaScript**
 
