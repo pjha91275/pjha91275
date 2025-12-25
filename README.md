@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Prince Jha</h1>
 <h3 align="center">
-2nd year Computer Engineering Student @ TCET (Mumbai University)<br/>
+2nd year Computer Engineering Student |
 Aspiring Software Developer | Full-Stack Web Development
 </h3>
 
