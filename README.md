@@ -1,64 +1,83 @@
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="260" width="420" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<h1 align="center">💫 Hi 👋, I'm Prince Jha</h1>
-<h3 align="center">2nd year Computer Enginnering student | Aspiring Full Stack Developer |
-Passionate About Web Technologies | India</h3>
+<h1 align="center">Hi 👋, I'm Prince Jha</h1>
+<h3 align="center">
+Second-year Computer Engineering Student @ TCET (Mumbai University)<br/>
+Aspiring Software Developer | Full-Stack Web Development
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjha91275&label=Profile%20views&color=0e75b6&style=flat" alt="pjha91275" /> </p>
-
-- 🔭 I’m currently working on [Portfolio Website](https://pjha91275.github.io/Portfolio/)
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on [Spotify Clone](https://pjha91275.github.io/Spotify-Clone/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, C, C++ and JAVA**
-
-- 📩 **Email Me:** [pjha91275@gmail.com](mailto:sjha04180@gmail.com)  
-  🤝 *Open to collaboration, projects, or any tech talk — let’s connect!* 😊
-
-- 📄 Read My Resume [https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drive_link](https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view?usp=drive_link)
-
-- ⚡ Fun fact : **Ctrl + Z has saved me more times than I can count - in life and in code.**
-
-### 🌐 Connect with Me
-
-| [![LinkedIn](https://img.icons8.com/color/32/linkedin.png)](https://linkedin.com/in/prince-jha-dev) | [![Email](https://img.icons8.com/color/32/gmail--v1.png)](mailto:pjha91275@gmail.com) |
-|:--:|:--:|
-| [LinkedIn](https://linkedin.com/in/prince-jha-dev) | [Email Me](mailto:pjha91275@gmail.com) |
-
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-<br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-
-## 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pjha91275&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pjha91275&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha91275&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pjha91275&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pjha91275&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/prince-jha-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pjha91275@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://prince-jha-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pjha91275&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+- 🎓 Second-year Computer Engineering undergraduate  
+- 💻 Interested in **software development and full-stack web technologies**  
+- 🧠 Strong programming foundation through **C, C++, and Java**  
+- 🔧 Hands-on experience building **backend-driven and full-stack web applications**
+
+---
+
+## 🔧 What I Work With
+- 🌐 Building web applications using **JavaScript-based technologies**
+- ⚛️ Frontend development with **React.js** and modern UI practices
+- 🛠 Backend development using **Node.js, Express.js, and MongoDB**
+- 📚 Actively strengthening **data structures and problem-solving skills**
+- 🚀 Currently building projects with **Next.js** as part of MERN stack learning
+
+---
+
+## 🛠️ Tech Stack
+
+### Web & Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 🌱 Currently Learning
+- Next.js (framework exposure)
+- Backend architecture & authentication flows
+- Data Structures & Algorithmic problem-solving
+- Open-source contribution workflows
+
+---
+
+## 📊 GitHub Stats
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjha91275&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha91275&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let’s Connect
+- 📩 Email: **pjha91275@gmail.com**
+- 🌐 Portfolio: **https://prince-jha-portfolio.vercel.app/**
+- 💼 LinkedIn: **https://linkedin.com/in/prince-jha-dev**
+
+⚡ *Ctrl + Z has saved me more times than I can count — in life and in code.*
+
