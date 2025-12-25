@@ -16,6 +16,9 @@ Aspiring Software Developer | Full-Stack Web Development
   <a href="https://prince-jha-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view">
+    <img src="https://img.shields.io/badge/Resume-PDF-green?logo=googledrive&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -98,6 +101,7 @@ Aspiring Software Developer | Full-Stack Web Development
 - 📩 Email: **pjha91275@gmail.com**
 - 🌐 Portfolio: **https://prince-jha-portfolio.vercel.app/**
 - 💼 LinkedIn: **https://linkedin.com/in/prince-jha-dev**
+- 📄 Resume: **https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view**
 
 ⚡ *Ctrl + Z has saved me more times than I can count — in life and in code.*
 
