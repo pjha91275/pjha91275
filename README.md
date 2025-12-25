@@ -87,6 +87,8 @@ Aspiring Software Developer | Full-Stack Web Development
 ![](https://nirzak-streak-stats.vercel.app/?user=pjha91275&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha91275&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pjha91275&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
