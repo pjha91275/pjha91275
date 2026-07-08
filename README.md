@@ -1,21 +1,24 @@
 <img align="right" height="260" width="420" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <h1 align="center">Hi 👋, I'm Prince Jha</h1>
+
 <h3 align="center">
-Computer Engineering Student |
-Aspiring Software Developer | Full-Stack Web Development
+Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspiring Software Engineer
 </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/prince-jha-dev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:pjha91275@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://prince-jha-portfolio.vercel.app/">
+
+  <a href="https://princejha.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white"/>
   </a>
+
   <a href="https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view">
     <img src="https://img.shields.io/badge/Resume-PDF-green?logo=googledrive&logoColor=white"/>
   </a>
@@ -23,49 +26,83 @@ Aspiring Software Developer | Full-Stack Web Development
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Second-year Computer Engineering undergraduate  
-- 💻 Interested in **software development and full-stack web technologies**  
-- 🧠 Strong programming foundation through **C, C++, and Java**  
-- 🔧 Hands-on experience building **backend-driven and full-stack web applications**
+# 👨‍💻 About Me
+
+🎓 Third-Year **B.E. Computer Engineering** student at **Thakur College of Engineering and Technology, Mumbai University**
+
+📈 Current **CGPI: 9.25**
+
+💻 Passionate about **Software Engineering**, **Full-Stack Web Development**, and building scalable applications using modern JavaScript technologies.
+
+🚀 I enjoy transforming ideas into real-world web applications by combining intuitive user interfaces with secure and scalable backend architectures.
 
 ---
 
-## 🔧 What I Work With
-- 🌐 Building web applications using **JavaScript-based technologies**
-- ⚛️ Frontend development with **React.js** and modern UI practices
-- 🛠 Backend development using **Node.js, Express.js, and MongoDB**
-- 📚 Actively strengthening **data structures and problem-solving skills**
-- 🚀 Currently building projects with **Next.js** as part of MERN stack learning
+## 🚀 Highlights
+
+- 🌟 Built **3 Full-Stack Projects**
+  - 🛒 Quickzy – Full-Stack Quick Commerce Platform
+  - 🎯 SkillBridge – Placement Preparation Platform
+  - 📝 Blog Management System
+
+- 💡 Solved **100+ Data Structures & Algorithms** problems across LeetCode, GeeksforGeeks, CodeChef, Codeforces, Code360, and HackerRank.
+
+- 🏆 Participated in **10+ National-Level Hackathons**
+
+- 🥇 Qualified for the **Offline Final Rounds** of:
+  - Odoo × SPIT Hackathon
+  - Mumbai Hacks
+  - IEEE Mega Project 8.0 (Top 8 Teams)
+
+- 📂 Maintained **30+ GitHub repositories**
+
+- ⚡ Contributed **550+ commits** across personal, academic, automation, and full-stack development projects.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages 
+## 💻 Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 
-### Frontend 
+---
+
+## 🌐 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
-### Backend 
+---
+
+## ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge)
 
-### Database 
+---
+
+## 🗄️ Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-2E7D32?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms 
+---
+
+## 🛠️ Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
@@ -77,31 +114,157 @@ Aspiring Software Developer | Full-Stack Web Development
 
 ---
 
-## 🌱 Currently Learning
-- Next.js (framework exposure)
-- Backend architecture & authentication flows
-- Data Structures & Algorithmic problem-solving
-- Open-source contribution workflows
+## 📚 Computer Science Fundamentals
+
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+- Data Structures & Algorithms
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pjha91275&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pjha91275&theme=synthwave&hide_border=false)<br/>
+## 🌱 Currently Learning
+
+- 🚀 Advanced Data Structures & Algorithms
+- ⚡ System Design Fundamentals
+- 🏗️ Scalable Backend Architecture
+- 🔒 Authentication & Authorization Patterns
+- 🌐 Modern Full-Stack Development with Next.js
+- 🤝 Open Source Contribution Workflows
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Quickzy – Full-Stack Quick Commerce Platform
+
+> A modern full-stack Quick Commerce platform inspired by Blinkit, Zepto and Instamart.
+
+### ✨ Highlights
+
+- 🔐 Secure authentication with NextAuth.js
+- 🛍️ Product discovery, filtering and search
+- ❤️ State-managed Cart & Wishlist
+- 📍 Geolocation-based checkout
+- 💳 Razorpay payment integration
+- 🛠️ Role-based Admin Dashboard
+- ☁️ Cloudinary media management
+- 📦 Product, Banner, Coupon, User & Order Management
+- 📊 Business analytics dashboard
+
+**Tech Stack**
+
+Next.js • React.js • Node.js • MongoDB • Mongoose • Tailwind CSS • NextAuth.js
+
+🔗 **Repository:**  
+https://github.com/pjha91275/Quickzy
+
+🌐 **Live Demo:**  
+https://quickzy-zap.vercel.app
+
+---
+
+## 🎯 SkillBridge – Placement Preparation Platform
+
+> A modern placement preparation platform helping students evaluate and improve their readiness for software engineering careers.
+
+### ✨ Highlights
+
+- 📄 Resume Analyzer
+- 📈 Placement Readiness Score
+- 🏢 Company Readiness Checker
+- 🎯 Skill Gap Analysis
+- 🛣️ Career Roadmaps
+- 📚 Curated Study Resources
+- ✅ Kanban Goal Tracker
+- 📊 Interactive Analytics Dashboard
+- 👨‍💼 Role-based Admin Panel
+
+**Tech Stack**
+
+Next.js • React.js • Node.js • MongoDB • Mongoose • Tailwind CSS • NextAuth.js
+
+🔗 **Repository:**  
+https://github.com/pjha91275/SkillBridge
+
+🌐 **Live Demo:**  
+https://skillbridgehq.vercel.app
+
+---
+
+## 📝 Blog Management System
+
+> A secure full-stack blogging platform with authentication, server-side rendering and content management.
+
+### ✨ Highlights
+
+- 🔐 JWT Authentication
+- 📝 CRUD Blog Management
+- 🌙 Light/Dark Theme
+- 📖 Markdown Rendering
+- ⚡ Server-side Rendering using EJS
+- 🛡️ Middleware-based Architecture
+- 📱 Responsive UI
+
+**Tech Stack**
+
+Node.js • Express.js • MongoDB • Mongoose • EJS • JWT
+
+🔗 **Repository:**  
+https://github.com/pjha91275/Blog-Management-System
+
+🌐 **Live Demo:**  
+https://blog-management-system-kns5.onrender.com
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=pjha91275&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=pjha91275&theme=synthwave&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha91275&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repositories
+
 ![](https://github-contributor-stats.vercel.app/api?username=pjha91275&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 🤝 Let’s Connect
-- 📩 Email: **pjha91275@gmail.com**
-- 🌐 Portfolio: **https://prince-jha-portfolio.vercel.app/**
-- 💼 LinkedIn: **https://linkedin.com/in/prince-jha-dev**
-- 📄 Resume: **https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view**
+# 🤝 Let's Connect
 
-⚡ *Ctrl + Z has saved me more times than I can count — in life and in code.*
+<p align="center">
 
+<a href="mailto:pjha91275@gmail.com">
+<img src="https://img.shields.io/badge/Email-pjha91275%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/prince-jha-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Prince_Jha-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://princejha.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-princejha.vercel.app-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/pjha91275">
+<img src="https://img.shields.io/badge/GitHub-pjha91275-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Philosophy
+
+> *"Great software is built by continuously learning, solving problems, and transforming ideas into impactful products."*
+
+---
+
+⭐ If you like my projects, feel free to explore my repositories and connect with me!
+
+Thanks for visiting my profile! 😊
