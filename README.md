@@ -20,7 +20,7 @@ Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspirin
   </a>
 
   <a href="https://drive.google.com/file/d/1zSXDfPcrSPvWcmVW1YmSAWW1mpBpWy0e/view?usp=drive_link">
-    <img src="img.shields.io/badge/Resume-PDF-green?logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-PDF-green?logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
@@ -231,7 +231,7 @@ https://blog-management-system-kns5.onrender.com
 
 ## 🔝 Top Contributed Repositories
 
-![](github-contributor-stats.vercel.app)
+![](![](https://github-contributor-stats.vercel.app/api?username=pjha91275))
 
 ---
 
