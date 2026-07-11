@@ -20,7 +20,7 @@ Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspirin
   </a>
 
   <a href="https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view">
-    <img src="https://img.shields.io/badge/Resume-PDF-green?logo=googledrive&logoColor=white"/>
+    <img src="https://drive.google.com/file/d/1zSXDfPcrSPvWcmVW1YmSAWW1mpBpWy0e/view?usp=drive_link"/>
   </a>
 </p>
 
