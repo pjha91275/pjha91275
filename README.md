@@ -40,7 +40,7 @@ Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspirin
 
 ## 🚀 Highlights
 
-- 🌟 Built **3 Full-Stack Projects**
+- 🌟 Built many Full Stack Projects out of which **3 main Full-Stack Projects**
   - 🛒 Quickzy – Full-Stack Quick Commerce Platform
   - 🎯 SkillBridge – Placement Preparation Platform
   - 📝 Blog Management System
