@@ -243,7 +243,7 @@ https://blog-management-system-kns5.onrender.com
 </a>
 
 <a href="https://linkedin.com/in/prince-jha-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Prince-ha-dev-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-prince-jha-dev-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://princejha.vercel.app">
