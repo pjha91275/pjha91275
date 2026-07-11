@@ -19,8 +19,8 @@ Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspirin
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="https://drive.google.com/file/d/1Gl0iT75-VL5QHfWeKbZO_8Yud670uU3i/view">
-    <img src="https://drive.google.com/file/d/1zSXDfPcrSPvWcmVW1YmSAWW1mpBpWy0e/view?usp=drive_link"/>
+  <a href="https://drive.google.com/file/d/1zSXDfPcrSPvWcmVW1YmSAWW1mpBpWy0e/view?usp=drive_link">
+    <img src="img.shields.io/badge/Resume-PDF-green?logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
@@ -221,17 +221,17 @@ https://blog-management-system-kns5.onrender.com
 
 # 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=pjha91275&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats-one-bice.vercel.app/api?username=pjha91275&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=pjha91275&theme=synthwave&hide_border=false)
+![](https://streak-stats.demolab.com?user=pjha91275&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha91275&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=pjha91275&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=pjha91275&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](github-contributor-stats.vercel.app)
 
 ---
 
