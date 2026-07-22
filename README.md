@@ -200,7 +200,7 @@ https://skillbridgehq.vercel.app
 
 ## 📝 Blog Management System
 
->  A secure full-stack blogging platform with authentication, server-side rendering and content management.
+>  A secure full-stack blogging platform with admin authentication, server-side rendering, and content management.
 
 ### ✨ Highlights
 
