@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prince Jha</h1>
 
 <h3 align="center">
-Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspiring Software Engineer
+Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring Software Engineer
 </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@ Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspirin
 
 ## 🚀 Highlights
 
-- 🌟 Built many Full Stack Projects out of which **3 main Full-Stack Projects**
+- 🌟 Built many Full Stack Projects out of which **3 Full-Stack Projects are**
   - 🛒 Quickzy – Full-Stack Quick Commerce Platform
   - 🎯 SkillBridge – Placement Preparation Platform
   - 📝 Blog Management System
@@ -131,12 +131,11 @@ Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspirin
 
 ## 🌱 Currently Learning
 
-- 🚀 Advanced Data Structures & Algorithms
-- ⚡ System Design Fundamentals
+- 🚀 Data Structures & Algorithms (DSA)
 - 🏗️ Scalable Backend Architecture
+- 📘 TypeScript
 - 🔒 Authentication & Authorization Patterns
 - 🌐 Modern Full-Stack Development with Next.js
-- 🤝 Open Source Contribution Workflows
 
 ---
 
@@ -144,7 +143,7 @@ Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspirin
 
 ## 🛒 Quickzy – Full-Stack Quick Commerce Platform
 
-> A modern full-stack Quick Commerce platform inspired by Blinkit, Zepto and Instamart.
+> A full-stack quick commerce platform built with Next.js, React.js, Tailwind CSS, Node.js, MongoDB, Mongoose, and NextAuth.js featuring product discovery, secure authentication, cart & wishlist, geolocation-based checkout, Razorpay payments, and a role-based admin dashboard.
 
 ### ✨ Highlights
 
@@ -160,7 +159,7 @@ Third-Year Computer Engineering Student • Full-Stack Web Developer • Aspirin
 
 **Tech Stack**
 
-Next.js • React.js • Node.js • MongoDB • Mongoose • Tailwind CSS • NextAuth.js
+Next.js • React.js • JavaScript • Tailwind CSS • Node.js • MongoDB • Mongoose • NextAuth.js
 
 🔗 **Repository:**  
 https://github.com/pjha91275/Quickzy
@@ -172,7 +171,7 @@ https://quickzy-zap.vercel.app
 
 ## 🎯 SkillBridge – Placement Preparation Platform
 
-> A modern placement preparation platform helping students evaluate and improve their readiness for software engineering careers.
+> A full-stack placement preparation platform built with Next.js, React.js, Node.js, MongoDB, NextAuth.js, and Tailwind CSS featuring resume analysis, placement readiness scoring, company readiness evaluation, skill gap analysis, career roadmaps, DSA tracking, analytics dashboards, and role-based administration.
 
 ### ✨ Highlights
 
@@ -188,7 +187,7 @@ https://quickzy-zap.vercel.app
 
 **Tech Stack**
 
-Next.js • React.js • Node.js • MongoDB • Mongoose • Tailwind CSS • NextAuth.js
+Next.js • React.js • JavaScript • Tailwind CSS • Node.js • MongoDB • Mongoose • NextAuth.js
 
 🔗 **Repository:**  
 https://github.com/pjha91275/SkillBridge
@@ -200,7 +199,7 @@ https://skillbridgehq.vercel.app
 
 ## 📝 Blog Management System
 
-> A secure full-stack blogging platform with authentication, server-side rendering and content management.
+> A full-stack blog management platform built with Node.js, Express.js, MongoDB, Mongoose, JWT, EJS, HTML, CSS, and JavaScript featuring secure authentication, CRUD operations, Markdown rendering, responsive UI, and server-side rendering.
 
 ### ✨ Highlights
 
@@ -214,7 +213,7 @@ https://skillbridgehq.vercel.app
 
 **Tech Stack**
 
-Node.js • Express.js • MongoDB • Mongoose • EJS • JWT
+HTML • CSS • JavaScript • Node.js • Express.js • EJS • MongoDB • Mongoose • JWT
 
 🔗 **Repository:**  
 https://github.com/pjha91275/Blog-Management-System
