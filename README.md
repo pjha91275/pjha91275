@@ -127,7 +127,7 @@ Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring So
 
 ## 📊 Data Science Library
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
