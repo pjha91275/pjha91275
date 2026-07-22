@@ -117,9 +117,10 @@ Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring So
 ## 📚 Computer Science Fundamentals
 
 - Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
 - Database Management Systems (DBMS)
-- Operating Systems
-- Computer Networks
+- Operating Systems (OS)
+- Computer Networks (CN)
 
 ---
 
@@ -143,7 +144,7 @@ Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring So
 
 ## 🛒 Quickzy – Full-Stack Quick Commerce Platform
 
-> A full-stack quick commerce platform built with Next.js, React.js, Tailwind CSS, Node.js, MongoDB, Mongoose, and NextAuth.js featuring product discovery, secure authentication, cart & wishlist, geolocation-based checkout, Razorpay payments, and a role-based admin dashboard.
+> A modern full-stack quick commerce platform featuring customer shopping, secure authentication, and an admin dashboard.
 
 ### ✨ Highlights
 
@@ -171,7 +172,7 @@ https://quickzy-zap.vercel.app
 
 ## 🎯 SkillBridge – Placement Preparation Platform
 
-> A full-stack placement preparation platform built with Next.js, React.js, Node.js, MongoDB, NextAuth.js, and Tailwind CSS featuring resume analysis, placement readiness scoring, company readiness evaluation, skill gap analysis, career roadmaps, DSA tracking, analytics dashboards, and role-based administration.
+> A modern placement preparation platform helping students evaluate and improve their readiness for technical careers.
 
 ### ✨ Highlights
 
@@ -199,7 +200,7 @@ https://skillbridgehq.vercel.app
 
 ## 📝 Blog Management System
 
-> A full-stack blog management platform built with Node.js, Express.js, MongoDB, Mongoose, JWT, EJS, HTML, CSS, and JavaScript featuring secure authentication, CRUD operations, Markdown rendering, responsive UI, and server-side rendering.
+>  A secure full-stack blogging platform with authentication, server-side rendering and content management.
 
 ### ✨ Highlights
 
