@@ -228,8 +228,6 @@ https://blog-management-system-kns5.onrender.com
 
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=pjha91275&show_icons=true&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=pjha91275&theme=tokyonight)
-
 # 📈 Contribution Graph
 
 [![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pjha91275&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
