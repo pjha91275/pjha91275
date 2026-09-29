@@ -32,31 +32,36 @@ Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring So
 
 📈 Current **CGPI: 9.25**
 
-💻 Passionate about **Software Engineering**, **Full-Stack Web Development**, and building scalable applications using modern JavaScript technologies.
+💻 Full-Stack Developer with hands-on experience building web applications using **Next.js, React.js, JavaScript, TypeScript, Node.js, MongoDB, and PostgreSQL**.
 
-🚀 I enjoy transforming ideas into real-world web applications by combining intuitive user interfaces with secure and scalable backend architectures.
+🚀 I enjoy transforming ideas into real-world applications by combining intuitive user interfaces with secure backend architectures, authentication, payments, analytics, RBAC, and data-driven workflows.
 
 ---
 
 ## 🚀 Highlights
 
-- 🌟 Built many Full Stack Projects out of which **3 Full-Stack Projects are**
+- 🌟 Built **multiple full-stack projects** across e-commerce, placement preparation, student development, and other domains.
   - 🛒 Quickzy – Full-Stack Quick Commerce Platform
   - 🎯 SkillBridge – Placement Preparation Platform
-  - 📝 Blog Management System
+  - 🎓 StudentSetu – Student Development Passport Platform
 
-- 💡 Solved **100+ Data Structures & Algorithms** problems across LeetCode, GeeksforGeeks, CodeChef, Codeforces, Code360, and HackerRank.
+- 💡 Solved **120+ Data Structures & Algorithms** problems across LeetCode, CodeChef, GeeksforGeeks, and CodeStudio.
 
-- 🏆 Participated in **10+ National-Level Hackathons**
+- 🏆 Participated in **15+ National-Level Hackathons**
 
-- 🥇 Qualified for the **Offline Final Rounds** of:
+- 🥇 Advanced to final rounds of:
   - Odoo × SPIT Hackathon
   - Mumbai Hacks
-  - IEEE Mega Project 8.0 (Top 8 Teams)
+  - IEEE Mega Project 8.0 — Top 8 Finalists
+  - InnovaHack Chapter 1 2026
 
-- 📂 Maintained **30+ GitHub repositories**
+- ⚡ Advanced to the **second round of Flipkart GRID 8.0**
 
-- ⚡ Contributed **550+ commits** across personal, academic, automation, and full-stack development projects.
+- 🥉 Secured **3rd Rank** in the Code Contest organized by Enginow.
+
+- 📂 Maintained **40+ GitHub repositories**
+
+- ⚡ Contributed **700+ commits** across personal, academic, full-stack development, automation, and hackathon projects.
 
 ---
 
@@ -64,21 +69,24 @@ Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring So
 
 ## 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
 ---
 
 ## 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-06B6D4?style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -86,15 +94,15 @@ Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring So
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0096D6?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful_APIs-0096D6?style=flat-square)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white)
 
 ---
 
 ## 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
@@ -112,6 +120,7 @@ Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring So
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-6C63FF?style=flat-square)
+
 ---
 
 ## 📚 Computer Science Fundamentals
@@ -148,15 +157,17 @@ Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring So
 
 ### ✨ Highlights
 
-- 🔐 Secure authentication with NextAuth.js
-- 🛍️ Product discovery, filtering and search
-- ❤️ State-managed Cart & Wishlist
-- 📍 Geolocation-based checkout
+- 🔐 Passwordless email authentication using NextAuth.js and Brevo
+- 🛍️ Product discovery, filtering, and search
+- ❤️ Persistent cart and wishlist
+- 📍 Geolocation-based delivery address pinning
 - 💳 Razorpay payment integration
+- ⏱️ Under 15-minute simulated delivery-time display
+- 📦 4-state order flow
 - 🛠️ Role-based Admin Dashboard
 - ☁️ Cloudinary media management
-- 📦 Product, Banner, Coupon, User & Order Management
-- 📊 Business analytics dashboard
+- 📊 Product, category, banner, coupon, user, and order management
+- 📈 Business analytics dashboard
 
 **Tech Stack**
 
@@ -172,19 +183,21 @@ https://quickzy-zap.vercel.app
 
 ## 🎯 SkillBridge – Placement Preparation Platform
 
-> A modern placement preparation platform helping students evaluate and improve their readiness for technical careers.
+> A modern placement preparation platform helping students evaluate their skills, track progress, and prepare for diverse technology roles.
 
 ### ✨ Highlights
 
-- 📄 Resume Analyzer
-- 📈 Placement Readiness Score
-- 🏢 Company Readiness Checker
-- 🎯 Skill Gap Analysis
+- 📄 ATS Resume Analyzer
+- 📈 100-Point Placement Readiness Score
+- 🏢 Company Readiness Evaluation
+- 🎯 Skill Gap Analysis across 10 Technical Roles
 - 🛣️ Career Roadmaps
 - 📚 Curated Study Resources
+- 📋 19-Topic DSA Tracker
 - ✅ Kanban Goal Tracker
-- 📊 Interactive Analytics Dashboard
-- 👨‍💼 Role-based Admin Panel
+- 🔄 Resume & Profile Auto-Sync
+- 📊 Recharts Analytics Dashboard
+- 👨‍💼 Role-Based Admin Panel
 
 **Tech Stack**
 
@@ -198,29 +211,32 @@ https://skillbridgehq.vercel.app
 
 ---
 
-## 📝 Blog Management System
+## 🎓 StudentSetu – Student Development Passport Platform
 
->  A secure full-stack blogging platform with admin authentication, server-side rendering, and content management.
+> A centralized student activity platform featuring role-based verification workflows, project contribution tracking, technical skill profiles, and institutional analytics.
 
 ### ✨ Highlights
 
-- 🔐 JWT Authentication
-- 📝 CRUD Blog Management
-- 🌙 Light/Dark Theme
-- 📖 Markdown Rendering
-- ⚡ Server-side Rendering using EJS
-- 🛡️ Middleware-based Architecture
-- 📱 Responsive UI
+- 👥 5-Role Role-Based Access Control
+- 📋 Centralized Student Development Records
+- 🔍 Evidence-Based Verification Workflows
+- 👨‍💻 Individual Project Contribution Tracking
+- 🧠 Technical Skill Profiles
+- 📊 Dynamic Institutional Analytics
+- 🗃️ 18-Model Relational Database Schema
+- 🛡️ Deterministic Verification Routing
+- 📁 Binary Evidence Storage
+- 📄 Print-Ready NAAC/NBA Reports
 
 **Tech Stack**
 
-HTML • CSS • JavaScript • Node.js • Express.js • EJS • MongoDB • Mongoose • JWT
+Next.js • React.js • TypeScript • Tailwind CSS • Node.js • PostgreSQL • Prisma • NextAuth.js • Recharts
 
 🔗 **Repository:**  
-https://github.com/pjha91275/Blog-Management-System
+https://github.com/pjha91275/SIH_2026
 
 🌐 **Live Demo:**  
-https://blog-management-system-kns5.onrender.com
+https://student-setu-iota.vercel.app/
 
 ---
 
@@ -228,9 +244,12 @@ https://blog-management-system-kns5.onrender.com
 
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=pjha91275&show_icons=true&theme=tokyonight)
 
+---
+
 # 📈 Contribution Graph
 
-[![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pjha91275&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Prince's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pjha91275&theme=tokyo-night)](https://github.com/pjha91275)
+
 ---
 
 # 🤝 Let's Connect
