@@ -142,10 +142,14 @@ Third-Year Computer Engineering Student • Full-Stack Developer • Aspiring So
 ## 🌱 Currently Learning
 
 - 🚀 Data Structures & Algorithms (DSA)
+
+## 🔭 Areas I Plan to Explore
+
+- 🔒 Authentication & Authorization
+- 🧪 Testing & Quality Practices
+- ⚙️ GitHub Actions & CI/CD Workflows
 - 🏗️ Scalable Backend Architecture
-- 📘 TypeScript
-- 🔒 Authentication & Authorization Patterns
-- 🌐 Modern Full-Stack Development with Next.js
+- ☁️ Cloud & DevOps Fundamentals
 
 ---
 
@@ -248,7 +252,9 @@ https://student-setu-iota.vercel.app/
 
 # 📈 Contribution Graph
 
-[![Prince's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pjha91275&theme=tokyo-night)](https://github.com/pjha91275)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pjha91275&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
 
 ---
 
